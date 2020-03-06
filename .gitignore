@@ -1,0 +1,7 @@
+node_modules/
+reversing/
+server/
+presentation/
+.idea/
+.DS_Store
+agents.js
